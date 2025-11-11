@@ -15,17 +15,29 @@ title: "Computer Set-up"
 
 ## 2. Create a free GitHub Account
 
-- [ ] Go to [github.com](https://github.com/)  
-- [ ] Create a **free account**  
+- [ ] Go to [github.com](https://github.com/)
+- [ ] Create a **free account**
 
-## 3. Install Visual Studio Code (VS Code)
+## 3. Create a free Supabase Account
 
-- [ ] Download from [code.visualstudio.com](https://code.visualstudio.com/)  
+- [ ] Go to [supabase.com](https://supabase.com/)
+- [ ] Sign up for a **free account**
+- [ ] You can sign up using your GitHub account for easier integration
+
+## 4. Create a free Vercel Account
+
+- [ ] Go to [vercel.com](https://vercel.com/)
+- [ ] Sign up for a **free account**
+- [ ] You can sign up using your GitHub account for easier deployment
+
+## 5. Install Visual Studio Code (VS Code)
+
+- [ ] Download from [code.visualstudio.com](https://code.visualstudio.com/)
 - [ ] During installation, if prompted:
-  - [ ] Check **“Add to PATH”**
-  - [ ] Enable **“Open with Code”** context-menu option (Windows users)
+  - [ ] Check **"Add to PATH"**
+  - [ ] Enable **"Open with Code"** context-menu option (Windows users)
 
-## 4. Start-up Claude Code within VS Code
+## 6. Start-up Claude Code within VS Code
 
 - [ ] Open the newly installed **VS Code** application  
 - [ ] In the top menu bar, click **Terminal → New Terminal**  
